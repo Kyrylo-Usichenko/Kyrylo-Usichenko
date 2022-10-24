@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kyrylo-Usichenko&theme=radical)
+GitTerminalGitHubFigmaVisual Studio CodeHTML5CSS3SassWebpackNPMSassJavaScriptReactRedux
