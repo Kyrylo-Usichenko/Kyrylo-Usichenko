@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/redux.png" />]()
 
 
-[<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <img alt="github-snake" src="github-snake-dark.svg" />
+
+<picture>
+  <img alt="github-snake" src="snake.svg" />
 </picture>
