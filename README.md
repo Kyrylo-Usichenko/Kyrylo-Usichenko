@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kyrylo-Usichenko&theme=radical)
 ### Technologies and Tools
 
 
@@ -43,6 +42,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://github.com/Kyrylo-Usichenko">
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kyrylo-Usichenko&theme=radical)
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kyrylo-Usichenko&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kyrylo-Usichenko&layout=compact&langs_count=8&theme=algolia"/>
 </a>
