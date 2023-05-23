@@ -38,3 +38,12 @@ Here are some ideas to get you started:
 <picture>
   <img alt="github-snake" src="snake.svg" />
 </picture>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/silenteyesoncode">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kyrylo-Usichenko&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kyrylo-Usichenko&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
