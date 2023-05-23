@@ -33,10 +33,9 @@ Here are some ideas to get you started:
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/react.png" />]()
 [<img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/redux.png" />]()
 
-![snake gif](https://github.com/Kyrylo-Usichenko/Kyrylo-Usichenko/blob/output/github-contribution-grid-snake.gif)
 
-<picture>
+[<picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
-</picture>
+</picture>]
