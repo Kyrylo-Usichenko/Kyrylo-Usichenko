@@ -32,3 +32,5 @@ Here are some ideas to get you started:
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/js.png" />]()
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/react.png" />]()
 [<img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/redux.png" />]()
+
+![snake gif](https://github.com/Kyrylo-Usichenko/Kyrylo-Usichenko/blob/output/github-contribution-grid-snake.gif)
