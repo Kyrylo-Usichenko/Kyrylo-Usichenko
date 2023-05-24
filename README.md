@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<picture>
+
   <img alt="github-snake" src="snake.svg" />
-</picture>
+
 
 ### 🛠 &nbsp;Tech Stack
 
