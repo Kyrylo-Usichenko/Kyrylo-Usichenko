@@ -14,12 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Technologies and Tools
-
-
-
-
-
 
 <picture>
   <img alt="github-snake" src="snake.svg" />
